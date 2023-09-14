@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "1",
+    "title": "Cabbage (Patta Gobhi)",
+    "category_id": "MC_1",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683919054/grocery/fresh_vegetables/1_dk4hoe.webp",
+    "price": 21,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "2",
+    "title": "Onion (Pyaz)",
+    "category_id": "MC_1",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683920213/grocery/fresh_vegetables/2_g4ecfh.webp",
+    "price": 19,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "3",
+    "title": "Red Capsicum",
+    "category_id": "MC_1",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683920599/grocery/fresh_vegetables/3_shemvi.webp",
+    "price": 50,
+    "description": "",
+    "in_stock": false
+  },
+  {
+    "_id": "4",
+    "title": "Corn Cob (Bhutta)",
+    "category_id": "MC_1",
+    "veg_egg_non": "veg",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683920754/grocery/fresh_vegetables/4_m2nyij.webp",
+    "price": 19,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "5",
+    "title": "Cherry Tomato - Hydroponically Grown",
+    "category_id": "MC_1",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683920849/grocery/fresh_vegetables/5_q7m7aq.webp",
+    "price": 19,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "6",
+    "title": "Kiran Watermelon (Tarbuj)",
+    "category_id": "MC_2",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1684614236/grocery/fresh_fruits/6_inflre.webp",
+    "price": 55,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "7",
+    "title": "Kiwi",
+    "category_id": "MC_2",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683921355/grocery/fresh_fruits/7_ibdbk1.webp",
+    "price": 76,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "8",
+    "title": "Tender Coconut",
+    "category_id": "MC_2",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683921479/grocery/fresh_fruits/8_wofdex.webp",
+    "price": 190,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "9",
+    "title": "Pomegranate",
+    "category_id": "MC_2",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683921842/grocery/fresh_fruits/9_gtcxgl.webp",
+    "price": 190,
+    "description": "",
+    "in_stock": true
+  },
+  {
+    "_id": "10",
+    "title": "Pear Imported",
+    "category_id": "MC_2",
+    "image": "https://res.cloudinary.com/dcu6sympq/image/upload/v1683922003/grocery/fresh_fruits/10_zyhyua.webp",
+    "price": 114,
+    "description": "",
+    "in_stock": true
+  }
+]
